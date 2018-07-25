@@ -1,0 +1,59 @@
+.google-logo {
+	margin-top: 198px;
+	margin-bottom: auto;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+
+}
+
+form {
+	text-align: center;
+}
+
+.search-bar {
+	width: 550px;
+	padding: 15px 20px;
+	margin: 25px 0;
+}
+
+.search-bar:hover {
+	box-shadow: 0px 2px;
+	color: #f2f2f2;
+
+}
+
+.submit {
+	background-color: #f2f2f2;
+	color: #757575;
+	font-weight: bold;
+	width: 120px;
+	padding: 10px 10px;
+	font-size: ;
+	border: none;
+}
+
+.submit:hover {
+	color: black;
+	box-shadow: 1px 1px grey;
+	border: black;
+
+}
+
+body {
+	font-family: arial,sans-serif
+}
+
+.languages {
+	text-align: center;
+	font-size: small;
+}
+a {
+	text-decoration: none;
+}
+
+.menu-bar {
+	font-size: small;
+	margin-left: 1000px;
+	
+}
